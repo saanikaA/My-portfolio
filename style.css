@@ -1,0 +1,62 @@
+h1{
+    
+    color:#ffffff
+
+}
+
+.header{
+    
+    background-color:#7fffd4;
+    display:flex;
+    justify-content:space-between;
+    border-style: dotted;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius:30px;
+}
+
+h2{
+display:flex;
+justify-content:center
+}
+
+.grid{
+    display:flex;
+flex-wrap: wrap; 
+justify-content:space-evenly;
+
+
+}
+p{
+    text-align:center;
+}
+.footer{
+    display:flex;
+    justify-content: flex-end;
+}
+body{
+    
+    background-color:#f7c2a9;
+}
+.item{
+    border-style:double;
+}
+
+h1{
+    display:flex;
+    background-color:aquamarine;
+    border-style:dotted;
+justify-content:center;
+}
+
+.swim{
+    display:flex;
+    flex-wrap:wrap-reverse;
+}
+.music{
+    display:flex;
+    flex-wrap:wrap-reverse;
+}
+.hobbies{
+    display:flex;
+    flex-wrap:wrap;
+}
